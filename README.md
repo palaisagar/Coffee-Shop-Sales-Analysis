@@ -1,6 +1,8 @@
 # Coffee-Shop-Sales-Analysis
 
 
+![Coffee Sales Dashboard](./Dashboard.png)
+
 ## Overview
 
 The **Coffee Sales Analysis Dashboard** is a visually engaging and data-driven business intelligence solution that transforms raw coffee sales data into clear, actionable insights. Designed for managers and decision-makers, this dashboard delivers a complete picture of sales performance — from daily trends to top-selling products — all in one interactive view.
